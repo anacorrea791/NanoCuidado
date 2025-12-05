@@ -1,0 +1,15 @@
+
+.bloco {
+  background: #ddd;          /* cor parecida com seu exemplo */
+  border-radius: 10px;       /* bordas arredondadas */
+  padding: 20px;
+  margin-bottom: 20px;       /* espaço entre os blocos */
+}
+
+.titulo-bloco {
+  margin-top: 0;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
